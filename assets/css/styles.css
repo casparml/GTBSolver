@@ -33,6 +33,7 @@
 	--h1-font-size: 1.25rem;
 	--h2-font-size: 1.125rem;
 	--h3-font-size: 1.005rem;
+	--abnormal-font-size: .938rem;
 	--normal-font-size: .838rem;
 	--small-font-size: .713rem;
 	--smaller-font-size: .55rem;
@@ -215,6 +216,10 @@ button {
 	left: 0;
 	z-index: var(--z-fixed);
 	background-color: var(--body-color);
+}
+
+h3 strong {
+	font-size: var(--abnormal-font-size);
 }
 
 /*==================== NAV ====================*/
