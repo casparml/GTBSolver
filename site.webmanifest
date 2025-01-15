@@ -1,6 +1,6 @@
 {
-	"name": "Guess The Build Solver",
-	"short_name": "GTB Solver",
+	"name": "Guess The Build Theme Solver",
+	"short_name": "Guess The Build Solver",
 	"description": "Guess The Build Solver is a word list tool for the Hypixel Minecraft server that allows the user to input hints and a list of all the possible words will appear.",
 	"start_url": "index.html",
 	"theme_color": "#7070D4",
