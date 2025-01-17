@@ -840,6 +840,13 @@ h3 strong {
 	.show-menu {
         bottom: 0;
     }
+
+	.active-link:not(:hover) {
+		color: var(--first-color);
+		background-color: #00000057;
+		border-radius: .25rem;
+		margin: 0 .75rem;
+	}
 }
 
 

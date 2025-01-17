@@ -2,6 +2,5 @@ User-agent: *
 Disallow: /500.html
 Disallow: /404.html
 Disallow: /403.html
-Disallow: /submit-words/submit-words.html
-Disallow: /contact/contact.html
-Disallow: /wordlist/
+Disallow: /submit-words/index.html
+Disallow: /contact/index.html
