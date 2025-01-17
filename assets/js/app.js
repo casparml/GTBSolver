@@ -11,7 +11,9 @@ resetHeight();
 
 // Dynamic favicon //
 window.onload = function () {
-	const favicon = document.getElementById('favicon')
+	const faviconICO = document.getElementById('faviconICO')
+	const faviconSVG = document.getElementById('faviconSVG')
+	const faviconPNG = document.getElementById('faviconPNG')
   
 	document.addEventListener('visibilitychange', function (e) {
 	  const isPageActive = !document.hidden
@@ -20,9 +22,13 @@ window.onload = function () {
   
 	function toggle(isPageActive) {
 	  if (isPageActive) {
-		favicon.href = '../assets/images/logo.png'
+		faviconICO.href = '../assets/images/icons/favicon.ico'
+		faviconSVG.href = '../assets/images/icons/favicon.svg'
+		faviconPNG.href = '../assets/images/icons/favicon-96x96.png'
 	  } else {
-		favicon.href = '../assets/images/logo-away.png'
+		faviconICO.href = '../assets/images/icon/favicon-away.ico'
+		faviconSVG.href = '../assets/images/icons/favicon-away.svg'
+		faviconPNG.href = '../assets/images/icons/favicon-96x96-away.png'
 	  }
 	}
 }

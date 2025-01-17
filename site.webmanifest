@@ -3,7 +3,7 @@
 	"short_name": "GTB",
 	"description": "Guess The Build Solver is a word list tool for the Hypixel Minecraft server that allows the user to input hints and a list of all the possible words will appear.",
 	"start_url": "index.html",
-	"theme_color": "#7070D4",
+	"theme_color": "#FBFBFE",
 	"background_color": "#FBFBFE",
 	"orientation": "any",
 	"display": "standalone",
