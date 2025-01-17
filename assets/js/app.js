@@ -26,7 +26,7 @@ window.onload = function () {
 		faviconSVG.href = '../assets/images/icons/favicon.svg'
 		faviconPNG.href = '../assets/images/icons/favicon-96x96.png'
 	  } else {
-		faviconICO.href = '../assets/images/icon/favicon-away.ico'
+		faviconICO.href = '../assets/images/icons/favicon-away.ico'
 		faviconSVG.href = '../assets/images/icons/favicon-away.svg'
 		faviconPNG.href = '../assets/images/icons/favicon-96x96-away.png'
 	  }
