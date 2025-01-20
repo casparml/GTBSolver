@@ -4,3 +4,5 @@ Disallow: /404.html
 Disallow: /403.html
 Disallow: /submit-words/index.html
 Disallow: /contact/index.html
+
+Sitemap: https://gtbsolver.com/sitemap.xml

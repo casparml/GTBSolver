@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://gtbsolver.com/</loc>
+    <lastmod>2025-01-18</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gtbsolver.com/submit-words/</loc>
+    <lastmod>2025-01-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gtbsolver.com/contact/</loc>
+    <lastmod>2025-01-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gtbsolver.com/403.html</loc>
+    <lastmod>2025-01-18</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gtbsolver.com/404.html</loc>
+    <lastmod>2025-01-18</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gtbsolver.com/500.html</loc>
+    <lastmod>2025-01-18</lastmod>
+    <priority>0.5</priority>
+  </url>
+</urlset>
