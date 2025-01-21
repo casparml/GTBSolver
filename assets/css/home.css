@@ -67,10 +67,6 @@ body.dark-theme{
 	margin-bottom: var(--mb-0-75);
 }
 
-.home__description{
-	margin-bottom: var(--mb-2);
-}
-
 [type=text] {
 	width: 350px;
 	padding: .5em;
