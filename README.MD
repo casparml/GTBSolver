@@ -21,12 +21,6 @@ If you have any questions or want to give some suggestions, send them on the [is
 
 ---
 
-## 📜 **DISCLAIMER**
-
-This projet is not affiliated with, endorsed, sponsored, or specifically approved by [Hypixel](https://hypixel.net) and [Hypixel](https://hypixel.net) is not responsible for it.
-
----
-
 ## 📇 Contact Me
 
 I’d love to hear from you! Whether you have a question, suggestion, or just want to connect, feel free to reach out:
@@ -37,3 +31,17 @@ I’d love to hear from you! Whether you have a question, suggestion, or just wa
 
 ---
 
+## 🙏 Credits
+
+Special thanks to all contributors who have helped improve this project, including:
+
+- **YellowToad** for their valuable input.
+- Numerous anonymous contributors for their suggestions and feedback.
+
+Your contributions are greatly appreciated!
+
+---
+
+## 📜 **DISCLAIMER**
+
+This project is not affiliated with, endorsed, sponsored, or specifically approved by [Hypixel](https://hypixel.net) and [Hypixel](https://hypixel.net) is not responsible for it.
