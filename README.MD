@@ -36,6 +36,7 @@ I’d love to hear from you! Whether you have a question, suggestion, or just wa
 Special thanks to all contributors who have helped improve this project, including:
 
 - **YellowToad** for their valuable input.
+- **5yos** bringing a mistake in my code to light.
 - Numerous anonymous contributors for their suggestions and feedback.
 
 Your contributions are greatly appreciated!
